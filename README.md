@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ecaricato" alt="ecaricato" /></a> </p>
 
-- 🌱 I’m currently learning **Polars, Vue and JS**
+- 🌱 I’m currently learning **Polars, Vue, JS and Mojo 🔥**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ECaricato](https://github.com/ECaricato)
 
