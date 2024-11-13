@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ECaricato](https://github.com/ECaricato)
 
-- 💬 Ask me about **Prompt Engineering, Data Science, or anything Python related**
+- 💬 Ask me about **ML Ops, Data Science, or anything Python related**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
